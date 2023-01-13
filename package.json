@@ -1,0 +1,11 @@
+{
+  "name": "fundamentos-nodejs",
+  "version": "1.0.0",
+  "description": "Aprendendo node js de forma aprofundada",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Weslley Henrique Vieira Ferraz",
+  "license": "ISC"
+}
